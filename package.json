@@ -1,0 +1,14 @@
+{
+  "name": "@taylora/xapi-statement-builder",
+  "version": "0.0.1",
+  "description": "A library to ease xApi statements creation",
+  "main": "index.js",
+  "author": "Francesco Tassi <ftassi@taylora.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^24.9.0"
+  },
+  "scripts": {
+    "test": "jest"
+  }
+}
