@@ -20,7 +20,7 @@ jobs:
     - run: npm install -g yarn # Extra Step
     - name: yarn install and test
       run: |
-        yarn instsall
+        yarn install
         yarn test
       env:
         CI: true
