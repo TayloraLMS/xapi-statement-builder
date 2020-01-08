@@ -1,6 +1,6 @@
 {
   "name": "@taylora/xapi-statement-builder",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A library to ease xApi statements creation",
   "main": "dist/xapi-statement-builder.js",
   "module": "lib/index.js",
