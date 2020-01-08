@@ -14,5 +14,9 @@
   "scripts": {
     "test": "jest",
     "build": "webpack"
-  }
+  },
+  "files": [
+    "/dist",
+    "/lib"
+  ]
 }
